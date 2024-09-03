@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\anexs\\dto\\patientsdtos\\createpatientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\anexs\\dto\\patientsdtos\\createpatientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\anexs\\dto\\patientsdtos\\getpatientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\anexs\\dto\\patientsdtos\\getpatientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\anexs\\dto\\patientsdtos\\updatepatientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\anexs\\dto\\patientsdtos\\updatepatientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\applicationcore\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\applicationcore\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\infrastructure\\repositories\\patientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\infrastructure\\repositories\\patientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\infrastructure\\repositories\\doctorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\infrastructure\\repositories\\doctorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\applicationcore\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\applicationcore\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\anexs\\dto\\doctorsdtos\\updatedoctorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\anexs\\dto\\doctorsdtos\\updatedoctorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\anexs\\dto\\doctorsdtos\\getdoctorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\anexs\\dto\\doctorsdtos\\getdoctorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\anexs\\dto\\doctorsdtos\\createdoctorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\anexs\\dto\\doctorsdtos\\createdoctorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\applicationcore\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\applicationcore\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\anexs\\mapping\\doctorsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\anexs\\mapping\\doctorsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\anexs\\mapping\\patientsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\anexs\\mapping\\patientsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\web\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\web\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\applicationcore\\interface\\iservices\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\applicationcore\\interface\\iservices\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\applicationcore\\interface\\iservices\\ipatientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\applicationcore\\interface\\iservices\\ipatientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\applicationcore\\interface\\irepositories\\idoctorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\applicationcore\\interface\\irepositories\\idoctorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\anexs\\globalusingnamespace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\anexs\\globalusingnamespace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\applicationcore\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\applicationcore\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\applicationcore\\models\\cabinets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\applicationcore\\models\\cabinets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\applicationcore\\models\\areas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\applicationcore\\models\\areas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\task\\testtaskwebapi\\testtask\\applicationcore\\interface\\irepositories\\ipatientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2D13A5-E61D-4C1E-9B3F-E3748AE2F0C2}|TestTask\\TestTask.csproj|solutionrelative:testtask\\applicationcore\\interface\\irepositories\\ipatientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Models\\Specialization.cs",
+              "RelativeDocumentMoniker": "TestTask\\ApplicationCore\\Models\\Specialization.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Models\\Specialization.cs",
+              "RelativeToolTip": "TestTask\\ApplicationCore\\Models\\Specialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:46:41.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\appsettings.json",
+              "RelativeDocumentMoniker": "TestTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\appsettings.json",
+              "RelativeToolTip": "TestTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T11:39:10.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Infrastructure\\Repositories\\PatientsRepository.cs",
+              "RelativeDocumentMoniker": "TestTask\\Infrastructure\\Repositories\\PatientsRepository.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Infrastructure\\Repositories\\PatientsRepository.cs",
+              "RelativeToolTip": "TestTask\\Infrastructure\\Repositories\\PatientsRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:25:09.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "TestTask\\ApplicationCore\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Services\\DoctorService.cs",
+              "RelativeToolTip": "TestTask\\ApplicationCore\\Services\\DoctorService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:37:13.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateDoctorsDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Dto\\DoctorsDtos\\UpdateDoctorsDto.cs",
+              "RelativeDocumentMoniker": "TestTask\\Anexs\\Dto\\DoctorsDtos\\UpdateDoctorsDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Dto\\DoctorsDtos\\UpdateDoctorsDto.cs",
+              "RelativeToolTip": "TestTask\\Anexs\\Dto\\DoctorsDtos\\UpdateDoctorsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:35:35.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateDoctorsDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Dto\\DoctorsDtos\\CreateDoctorsDto.cs",
+              "RelativeDocumentMoniker": "TestTask\\Anexs\\Dto\\DoctorsDtos\\CreateDoctorsDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Dto\\DoctorsDtos\\CreateDoctorsDto.cs",
+              "RelativeToolTip": "TestTask\\Anexs\\Dto\\DoctorsDtos\\CreateDoctorsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:35:08.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatePatientsDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Dto\\PatientsDtos\\CreatePatientsDto.cs",
+              "RelativeDocumentMoniker": "TestTask\\Anexs\\Dto\\PatientsDtos\\CreatePatientsDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Dto\\PatientsDtos\\CreatePatientsDto.cs",
+              "RelativeToolTip": "TestTask\\Anexs\\Dto\\PatientsDtos\\CreatePatientsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:33:06.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPatientsService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Interface\\IServices\\IPatientsService.cs",
+              "RelativeDocumentMoniker": "TestTask\\ApplicationCore\\Interface\\IServices\\IPatientsService.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Interface\\IServices\\IPatientsService.cs",
+              "RelativeToolTip": "TestTask\\ApplicationCore\\Interface\\IServices\\IPatientsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:29:51.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalUsingNamespace.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\GlobalUsingNamespace.cs",
+              "RelativeDocumentMoniker": "TestTask\\Anexs\\GlobalUsingNamespace.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\GlobalUsingNamespace.cs",
+              "RelativeToolTip": "TestTask\\Anexs\\GlobalUsingNamespace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:23:49.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Models\\Patients.cs",
+              "RelativeDocumentMoniker": "TestTask\\ApplicationCore\\Models\\Patients.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Models\\Patients.cs",
+              "RelativeToolTip": "TestTask\\ApplicationCore\\Models\\Patients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:20:57.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cabinets.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Models\\Cabinets.cs",
+              "RelativeDocumentMoniker": "TestTask\\ApplicationCore\\Models\\Cabinets.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Models\\Cabinets.cs",
+              "RelativeToolTip": "TestTask\\ApplicationCore\\Models\\Cabinets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:20:39.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetPatientsDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Dto\\PatientsDtos\\GetPatientsDto.cs",
+              "RelativeDocumentMoniker": "TestTask\\Anexs\\Dto\\PatientsDtos\\GetPatientsDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Dto\\PatientsDtos\\GetPatientsDto.cs",
+              "RelativeToolTip": "TestTask\\Anexs\\Dto\\PatientsDtos\\GetPatientsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:17:53.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdatePatientsDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Dto\\PatientsDtos\\UpdatePatientsDto.cs",
+              "RelativeDocumentMoniker": "TestTask\\Anexs\\Dto\\PatientsDtos\\UpdatePatientsDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Dto\\PatientsDtos\\UpdatePatientsDto.cs",
+              "RelativeToolTip": "TestTask\\Anexs\\Dto\\PatientsDtos\\UpdatePatientsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:23:49.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Infrastructure\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "TestTask\\Infrastructure\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Infrastructure\\Data\\DataContext.cs",
+              "RelativeToolTip": "TestTask\\Infrastructure\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:15:16.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "doctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Web\\Controllers\\doctorsController.cs",
+              "RelativeDocumentMoniker": "TestTask\\Web\\Controllers\\doctorsController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Web\\Controllers\\doctorsController.cs",
+              "RelativeToolTip": "TestTask\\Web\\Controllers\\doctorsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:51:28.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Models\\Doctors.cs",
+              "RelativeDocumentMoniker": "TestTask\\ApplicationCore\\Models\\Doctors.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Models\\Doctors.cs",
+              "RelativeToolTip": "TestTask\\ApplicationCore\\Models\\Doctors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:17:47.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Infrastructure\\Repositories\\DoctorsRepository.cs",
+              "RelativeDocumentMoniker": "TestTask\\Infrastructure\\Repositories\\DoctorsRepository.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Infrastructure\\Repositories\\DoctorsRepository.cs",
+              "RelativeToolTip": "TestTask\\Infrastructure\\Repositories\\DoctorsRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:35:05.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Program.cs",
+              "RelativeDocumentMoniker": "TestTask\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Program.cs",
+              "RelativeToolTip": "TestTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:05:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientsMap.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Mapping\\PatientsMap.cs",
+              "RelativeDocumentMoniker": "TestTask\\Anexs\\Mapping\\PatientsMap.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Mapping\\PatientsMap.cs",
+              "RelativeToolTip": "TestTask\\Anexs\\Mapping\\PatientsMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:08:15.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetDoctorsDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Dto\\DoctorsDtos\\GetDoctorsDto.cs",
+              "RelativeDocumentMoniker": "TestTask\\Anexs\\Dto\\DoctorsDtos\\GetDoctorsDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Dto\\DoctorsDtos\\GetDoctorsDto.cs",
+              "RelativeToolTip": "TestTask\\Anexs\\Dto\\DoctorsDtos\\GetDoctorsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:13:22.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorsMap.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Mapping\\DoctorsMap.cs",
+              "RelativeDocumentMoniker": "TestTask\\Anexs\\Mapping\\DoctorsMap.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\Anexs\\Mapping\\DoctorsMap.cs",
+              "RelativeToolTip": "TestTask\\Anexs\\Mapping\\DoctorsMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:08:49.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Interface\\IServices\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "TestTask\\ApplicationCore\\Interface\\IServices\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Interface\\IServices\\IDoctorService.cs",
+              "RelativeToolTip": "TestTask\\ApplicationCore\\Interface\\IServices\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:12:22.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Areas.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Models\\Areas.cs",
+              "RelativeDocumentMoniker": "TestTask\\ApplicationCore\\Models\\Areas.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Models\\Areas.cs",
+              "RelativeToolTip": "TestTask\\ApplicationCore\\Models\\Areas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:20:36.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDoctorsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Interface\\IRepositories\\IDoctorsRepository.cs",
+              "RelativeDocumentMoniker": "TestTask\\ApplicationCore\\Interface\\IRepositories\\IDoctorsRepository.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Interface\\IRepositories\\IDoctorsRepository.cs",
+              "RelativeToolTip": "TestTask\\ApplicationCore\\Interface\\IRepositories\\IDoctorsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:12:35.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPatientsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Interface\\IRepositories\\IPatientsRepository.cs",
+              "RelativeDocumentMoniker": "TestTask\\ApplicationCore\\Interface\\IRepositories\\IPatientsRepository.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\Task\\TestTaskWebApi\\TestTask\\ApplicationCore\\Interface\\IRepositories\\IPatientsRepository.cs",
+              "RelativeToolTip": "TestTask\\ApplicationCore\\Interface\\IRepositories\\IPatientsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:12:36.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
